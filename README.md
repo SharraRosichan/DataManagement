@@ -1,3 +1,6 @@
+This data set and files were originally created by Dr. Plato Smith. The files were uploaded to GitHub as part of a project for a Data Management Class at University of Tennesseee at Knoxville. Below is the original ReadMe included with the files, which notes how to install and use the Swirl courses. - Sharra Rosichan
+
+
 swirl courses
 =============
 
