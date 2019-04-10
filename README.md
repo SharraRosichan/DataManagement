@@ -1,4 +1,7 @@
-<a href="https://sandbox.zenodo.org/badge/latestdoi/179999838"><img src="https://sandbox.zenodo.org/badge/179999838.svg" alt="DOI"></a>
+Release v1.0 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.267679.svg)](https://doi.org/10.5072/zenodo.267679)
+
+
+Release v1.5<a href="https://sandbox.zenodo.org/badge/latestdoi/179999838"><img src="https://sandbox.zenodo.org/badge/179999838.svg" alt="DOI"></a>
 
 
 
